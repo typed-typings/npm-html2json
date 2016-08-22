@@ -1,4 +1,5 @@
 {
+  "name": "@types/html2json",
   "private": true,
   "scripts": {
     "build": "echo building... && typings bundle -o out/index.d.ts",
