@@ -1,5 +1,7 @@
 # Typed Html2json  [![Build Status](https://travis-ci.org/types/html2json.svg?branch=master)](https://travis-ci.org/types/html2json)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-html2json.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`html2json`](https://github.com/jxck/html2json.git)
 
